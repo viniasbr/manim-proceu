@@ -1,2 +1,4 @@
 # manim-proceu
-A Manim repository written for Binder, to render physics animations for PROCEU
+Um repositório de Manim para ser usado com a plataforma [Binder](https://mybinder.org/). O repositório serve para renderizar animações de física, para o cursinho popular PROCEU Conhecimento.
+
+Mais sobre o [PROCEU](https://www.instagram.com/proceu_conhecimento/)
