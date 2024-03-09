@@ -1,7 +1,7 @@
 # manim-proceu
 Um repositório de Manim para ser usado com a plataforma [Binder](https://mybinder.org/)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viniasbr/manim-proceu.git/main) 
+Teste clicando aqui: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viniasbr/manim-proceu.git/main) 
 
 O repositório serve para renderizar animações de física, para o cursinho popular PROCEU Conhecimento.
 
