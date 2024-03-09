@@ -5,4 +5,7 @@ Mais sobre o [PROCEU](https://www.instagram.com/proceu_conhecimento/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/viniasbr/manim-proceu.git/main)
 
-https://github.com/viniasbr/manim-proceu/raw/main/Aula1/VelocidadeMedia.mp4
+## Velocidade Média
+
+https://github.com/viniasbr/manim-proceu/assets/103017312/658364bd-5a34-4dd7-81ce-c655a074e627
+
